@@ -1,0 +1,21 @@
+{
+  "name": "ipynb-merge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@types/argparse": "^2.0.17",
+    "argparse": "^2.0.1"
+  },
+  "devDependencies": {
+    "@types/node": "^24.9.1"
+  }
+}
