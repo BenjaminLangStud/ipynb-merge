@@ -12,10 +12,10 @@
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
-    "@types/argparse": "^2.0.17",
     "argparse": "^2.0.1"
   },
   "devDependencies": {
+    "@types/argparse": "^2.0.17",
     "@types/node": "^24.9.1"
   }
 }
